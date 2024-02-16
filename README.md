@@ -1,45 +1,35 @@
-# Hello, I'm Simon Juma! 👋
+<h1 align="center">Hi 👋, I'm simon juma</h1>
+<h3 align="center">A passionate frontend developer and machine learning Engineer from kenya</h3>
+<img align ="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alibcjh&label=Profile%20views&color=0e75b6&style=flat" alt="alibcjh" /> </p>
 
-I'm a Python programmer with a keen interest in machine learning. Currently, I'm diving deep into the exciting world of data science and artificial intelligence.
-I'm also a cyber security ethuasist with alot interest in web security, especially the application  part.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibcjh" alt="alibcjh" /></a> </p>
 
-## About Me
+<p align="left"> <a href="https://twitter.com/simonjuma88" target="blank"><img src="https://img.shields.io/twitter/follow/simonjuma88?logo=twitter&style=for-the-badge" alt="simonjuma88" /></a> </p>
 
-- 🔭 I specialize in **Python programming** and have a solid understanding of **machine learning**.
-- I'm also a sostware deveoper with keen interest in both font-end and back-end development.
-- I have keen interest in frameworks like react and node.js
-- 🌱 I'm passionate about exploring new concepts in data science and expanding my skill set in the field.
-- 👯 I'm open to collaborating on machine learning projects and sharing knowledge with the community.
-- 💬 Let's chat about anything related to Python, machine learning algorithm and software Engineering.
-- 💻 Additionally, I'm a software developer proficient in HTML, CSS, JavaScript, React, Tailwind CSS, and Node.js.
+- 🔭 I’m currently working on **web app for a food vending hotel**
 
-## My Skills
+- 🌱 I’m currently learning **React, Tailwind CSS**
 
-- **Programming Languages:** Python, HTML, CSS, JavaScript, React, Node.js
-- **Machine Learning Models:** Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering)
-- **Tools & Frameworks:** Jupyter Notebook, Scikit-Learn
-- **Data Visualization:** Matplotlib, Seaborn
-- **Version Control:** Git
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-## My Projects
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/simonjuma88" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="simonjuma88" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/simon-juma-603723253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/simon-juma-603723253/" height="30" width="40" /></a>
+<a href="https://kaggle.com/simon juma ombom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="simon juma ombom" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uccqhpsxsbu8gqnh-d3bxn3a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uccqhpsxsbu8gqnh-d3bxn3a" height="30" width="40" /></a>
+<a href="/https://www.linkedin.com/in/simon-juma-603723253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.linkedin.com/in/simon-juma-603723253/" height="30" width="40" /></a>
+</p>
 
-E-commerce web app for Dedan kimathi University  online cafeteria.
-Data cleaning and manipulation using pandas
-A DDOS defender using machine learning techniques
-Diabetes prediction using machine leaning models
-My PORTFOLIO
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alibcjh&show_icons=true&locale=en&layout=compact" alt="alibcjh" /></p>
 
-## Connect with Me
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alibcjh&show_icons=true&locale=en" alt="alibcjh" /></p>
 
-- 📫 Email: simon.ombom22@students.dkut.ac.ke
-- 🌐 LinkedIn: https://www.linkedin.com/in/simon-juma-603723253/
-- 🐦 Twitter: [@simonjuma88
-- 📝 Blog:
-
-## Fun Facts
-
-- 🎵 I enjoy taking nature walks, traveling, and game watching.
-- 📚 Currently reading: Hitting the budapest and many other stories
-
-Thanks for stopping by! Let's connect and code some cool machine learning  and software engineering  projects together. 😊
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alibcjh&" alt="alibcjh" /></p>
