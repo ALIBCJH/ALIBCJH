@@ -36,16 +36,17 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=simonjuma&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonjuma&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ALIBCJH&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ALIBCJH&theme=tokyonight" alt="Streak Stats" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=simonjuma&layout=compact&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIBCJH&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 
 ---
 
