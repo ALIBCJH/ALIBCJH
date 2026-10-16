@@ -1,194 +1,286 @@
 
-<!-- HEADER -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0b0f19,50:16213e,100:d4a853&text=Simon%20Juma&fontColor=f5f0e8&fontSize=60&fontAlignY=38&desc=Platform%20%26%20Infrastructure%20Engineer&descSize=19&descAlignY=59&animation=fadeIn" alt="Simon Juma banner" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3000&pause=1100&color=D4A853&center=true&vCenter=true&width=760&lines=Engineering+reliable+infrastructure.;Deploying+AI+workloads+at+scale.;Building+products+from+idea+to+production.;Based+in+Kenya.+Building+for+the+world." alt="Engineering focus" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:0B1020,50:16213E,100:263B65&text=SIMON%20JUMA&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=PLATFORM%20ENGINEER%20%7C%20BACKEND%20%7C%20AI%20INFRASTRUCTURE&descSize=14&descAlignY=73" alt="Simon Juma" />
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=I+build+systems+that+scale.;Kubernetes+%7C+Cloud+Native+%7C+AI+Inference;From+architecture+to+production.;Engineering+from+Kenya+to+the+world." alt="Developer introduction" />
+
+<br/><br/>
+
 <a href="https://simonjuma.me">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-D4A853?style=for-the-badge&labelColor=101827&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
 </a>
 <a href="https://linkedin.com/in/simon-ombom-603723253">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=101827&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 <a href="mailto:simonjuma465@gmail.com">
-<img src="https://img.shields.io/badge/Email-Let's%20Talk-D4A853?style=for-the-badge&labelColor=101827&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-0B1020?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"/>
+</a>
+<a href="https://github.com/ALIBCJH?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-0B1020?style=for-the-badge&logo=github&logoColor=38BDF8" alt="Repositories"/>
 </a>
 
 </div>
 
 <br/>
 
-## `> whoami`
+## 👨‍💻 About Me
 
-I’m **Simon Juma**, a platform and infrastructure engineer based in Kenya 🇰🇪.
+```python
+class PlatformEngineer:
+    def __init__(self):
+        self.name = "Simon Juma"
+        self.location = "Kenya 🇰🇪"
+        self.role = "Platform & Infrastructure Engineer"
 
-I design, deploy, and operate the systems behind modern applications — from **container orchestration and GPU-backed AI inference** to **backend APIs, payments, and interactive web products**.
+        self.specialties = [
+            "Kubernetes & Container Orchestration",
+            "Backend & API Engineering",
+            "AI Inference & GPU Infrastructure",
+            "Cloud-Native Systems",
+            "Observability & Reliability"
+        ]
 
-I enjoy working across the entire engineering lifecycle: architecture, implementation, deployment, observability, and continuous improvement.
+        self.currently_building = [
+            "R&J Interiors",
+            "Production Infrastructure",
+            "AI Inference Platforms"
+        ]
 
-```yaml
-engineer:
-  name: Simon Juma
-  location: Kenya
-  role: Platform & Infrastructure Engineer
-  interests:
-    - Cloud-native infrastructure
-    - Kubernetes & container orchestration
-    - AI inference & GPU workloads
-    - Backend & distributed systems
-    - Developer experience
-  currently:
-    - Building R&J Interiors
-    - Engineering production infrastructure
-    - Preparing for CKA certification
+    def philosophy(self):
+        return "Build reliable systems. Ship useful products."
 ```
 
-## `> current_work`
+I engineer the infrastructure behind modern software, from **Kubernetes clusters and GPU-backed AI inference** to **backend APIs, payments, and production web applications**.
 
-| | What I'm working on |
-|---|---|
-| 🏛️ **Building** | Co-founder & Technical Lead at [R&J Interiors](http://rjinteriors.studio/) |
-| ⚙️ **Engineering** | Infrastructure systems for a US investment firm |
-| ☸️ **Learning** | Certified Kubernetes Administrator (CKA) |
-| 🧠 **Exploring** | GPU inference, LLM serving, and cloud-native AI platforms |
+My work combines platform engineering, backend development, and product thinking. I enjoy turning complex technical requirements into maintainable, observable, and reliable systems.
+
+- 🏛️ Co-founder & Technical Lead — **[R&J Interiors](http://rjinteriors.studio/)**
+- ⚙️ Infrastructure engineering for a US investment firm
+- ☸️ Working toward **Certified Kubernetes Administrator (CKA)**
+- 🧠 Exploring scalable AI inference and GPU orchestration
+- 🌍 Based in Kenya, building for global users
 
 ---
 
-## `> engineering_stack`
+## ⚡ Engineering Stack
+
+<div align="center">
 
 ### ☸️ Infrastructure & DevOps
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,git,bash&perline=8" alt="Infrastructure tools"/>
-</p>
-
-`k3s` · `ARM64` · `GPU Scheduling` · `CI/CD`
-
-### 🐍 Backend & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,fastapi&perline=8" alt="Backend technologies"/>
-</p>
-
-`REST APIs` · `M-Pesa Daraja API` · `Database Design`
-
-### 🧠 AI Infrastructure & Observability
-
-<p>
-<img src="https://img.shields.io/badge/vLLM-111827?style=flat-square" alt="vLLM"/>
-<img src="https://img.shields.io/badge/Ollama-111827?style=flat-square" alt="Ollama"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat-square" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-</p>
-
-### 🌐 Frontend & 3D
-
-<p>
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,figma&perline=8" alt="Frontend technologies"/>
-</p>
-
----
-
-## `> featured_projects`
-
-### 01 / R&J Interiors — Design meets engineering
-
-**Co-founder · Technical Lead**
-
-[![Website](https://img.shields.io/badge/Live_Platform-rjinteriors.studio-D4A853?style=flat-square&logo=googlechrome&logoColor=white)](http://rjinteriors.studio/)
-
-Building the digital foundation for a vertically integrated interior design business, connecting **3D visualization, customer consultation, manufacturing, and installation**.
-
-**Engineering focus**
-- Interactive 3D product visualization
-- Full-stack application architecture
-- Digital customer journeys
-- Connecting design experiences to real-world fulfillment
-
-**Stack:** `Next.js` `Three.js` `Django` `WebXR`
-
----
-
-### 02 / Datani — Insurance platform
-
-**Full-stack product engineering**
-
-[![Live Application](https://img.shields.io/badge/Live_Application-Datani-D4A853?style=flat-square&logo=vercel&logoColor=white)](https://datanico.vercel.app)
-
-An insurance agency platform focused on modernizing digital customer engagement and simplifying access to insurance services.
-
-**Engineering focus**
-- React-based application interfaces
-- Django backend architecture
-- PostgreSQL data persistence
-- API-driven product workflows
-
-**Stack:** `React` `Django` `PostgreSQL`
-
----
-
-### 03 / GPU Inference Platform — Private infrastructure
-
-**Platform engineering · AI infrastructure**
-
-Designing and operating a multi-tenant Kubernetes environment on **NVIDIA DGX Spark**, targeting efficient GPU-backed model inference.
-
-**Engineering focus**
-- k3s orchestration on ARM64 hardware
-- Multi-tenant workload management
-- GPU scheduling and inference serving
-- LLM deployment using vLLM and Ollama
-- Monitoring, metrics, and observability
-
-**Stack:** `k3s` `ARM64` `vLLM` `Ollama` `Prometheus` `Grafana`
-
-> Private infrastructure project. Architecture and implementation details are shared selectively.
-
----
-
-## `> engineering_principles`
-
-```text
-01. Automate repetitive operations.
-02. Make systems observable by design.
-03. Prefer simple, maintainable architectures.
-04. Treat infrastructure as a product.
-05. Build for reliability, not just deployment.
-06. Keep learning. Keep shipping.
-```
-
----
-
-## `> github_activity`
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALIBCJH&show_icons=true&hide_border=true&bg_color=00000000&title_color=d4a853&icon_color=d4a853&text_color=9f9f9f&rank_icon=github" alt="GitHub statistics"/>
-<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIBCJH&layout=compact&hide_border=true&bg_color=00000000&title_color=d4a853&text_color=9f9f9f&hide=html,css" alt="Most used languages"/>
-
-</div>
-
-<sub>GitHub language statistics reflect public repository code, not overall engineering proficiency.</sub>
-
----
-
-## `> connect`
-
-I'm interested in conversations around **platform engineering, cloud-native infrastructure, AI deployment, and building ambitious products**.
-
-<div align="center">
-
-**[Portfolio](https://simonjuma.me) · [LinkedIn](https://linkedin.com/in/simon-ombom-603723253) · [Email](mailto:simonjuma465@gmail.com)**
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,githubactions,bash,git&theme=dark" alt="Infrastructure and DevOps"/>
 
 <br/>
 
-*Building useful software. Engineering the systems behind it.*
+### 🐍 Backend & Databases
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:d4a853,55:16213e,100:0b0f19&section=footer" alt="Footer"/>
+<img src="https://skillicons.dev/icons?i=python,django,postgres,redis,fastapi&theme=dark" alt="Backend and databases"/>
+
+<br/>
+
+### 🌐 Frontend & Product Engineering
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,threejs,tailwind,figma&theme=dark" alt="Frontend technologies"/>
+
+<br/>
+
+### 🧠 AI Infrastructure & Observability
+
+<img src="https://img.shields.io/badge/vLLM-111827?style=for-the-badge&logoColor=white" alt="vLLM"/>
+<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logoColor=white" alt="Ollama"/>
+<img src="https://img.shields.io/badge/OpenTelemetry-111827?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+<img src="https://img.shields.io/badge/Prometheus-111827?style=for-the-badge&logo=prometheus&logoColor=E6522C" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Grafana-111827?style=for-the-badge&logo=grafana&logoColor=F46800" alt="Grafana"/>
+
+</div>
+
+---
+
+## 🚀 Featured Engineering Projects
+
+<div align="center">
+
+<a href="http://rjinteriors.studio/">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ALIBCJH&repo=ALIBCJH&theme=tokyonight&hide_border=true" alt="Featured GitHub repository"/>
+</a>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ R&J Interiors
+
+**3D Commerce & Digital Manufacturing**
+
+<a href="http://rjinteriors.studio/">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="Visit R&J Interiors"/>
+</a>
+
+A vertically integrated interior design business connecting immersive visualization, customer consultation, manufacturing, and installation.
+
+**Engineering highlights**
+
+- Interactive 3D visualization
+- Full-stack application architecture
+- Digital customer experiences
+- Design-to-production workflows
+
+**Technologies**
+
+`Next.js` `Three.js` `Django` `WebXR`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Datani
+
+**Insurance Technology Platform**
+
+<a href="https://datanico.vercel.app">
+<img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-38BDF8?style=for-the-badge&logo=vercel&logoColor=0B1020" alt="Visit Datani"/>
+</a>
+
+An insurance agency platform focused on modern digital customer engagement and accessible insurance services.
+
+**Engineering highlights**
+
+- React-based frontend
+- Backend API architecture
+- PostgreSQL data persistence
+- Customer engagement workflows
+
+**Technologies**
+
+`React` `Django` `PostgreSQL`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☸️ GPU Inference Platform
+
+**Private AI Infrastructure**
+
+<img src="https://img.shields.io/badge/PRIVATE_INFRASTRUCTURE-8B5CF6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Private infrastructure"/>
+
+Multi-tenant Kubernetes infrastructure running on NVIDIA DGX Spark ARM64 hardware for GPU-backed inference workloads.
+
+**Engineering highlights**
+
+- k3s container orchestration
+- GPU workload scheduling
+- LLM serving with vLLM and Ollama
+- Monitoring and observability
+- Multi-tenant platform design
+
+**Technologies**
+
+`k3s` `ARM64` `vLLM` `Ollama` `Grafana`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔧 Platform Engineering
+
+**Infrastructure, Automation & Reliability**
+
+<a href="https://github.com/ALIBCJH?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-38BDF8?style=for-the-badge&logo=github&logoColor=0B1020" alt="Explore repositories"/>
+</a>
+
+Engineering and maintaining systems that support application delivery, deployment, monitoring, and operational reliability.
+
+**Areas of focus**
+
+- Containerized deployments
+- CI/CD workflows
+- Infrastructure automation
+- Metrics and telemetry
+- Production troubleshooting
+
+**Technologies**
+
+`Linux` `Docker` `Kubernetes` `GitHub Actions`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ALIBCJH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALIBCJH&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most used languages"/>
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=ALIBCJH&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+
+</div>
+
+---
+
+## 🧩 Engineering Philosophy
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### ⚙️ Automate
+
+Reduce repetitive operations through automation, repeatable deployments, and efficient engineering workflows.
+
+</td>
+<td width="33%" align="center">
+
+### 📡 Observe
+
+Build visibility into systems through metrics, logs, tracing, and meaningful monitoring.
+
+</td>
+<td width="33%" align="center">
+
+### 🚀 Deliver
+
+Turn engineering decisions into reliable products that solve real problems.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🌍 Let's Connect
+
+<div align="center">
+
+### Building infrastructure. Shipping products. Solving problems.
+
+I'm interested in collaborating on **cloud-native infrastructure, AI platforms, backend systems, and ambitious software products**.
+
+<a href="https://simonjuma.me">
+<img src="https://img.shields.io/badge/Explore_My_Portfolio-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=0B1020" alt="Portfolio"/>
+</a>
+<a href="mailto:simonjuma465@gmail.com">
+<img src="https://img.shields.io/badge/Start_A_Conversation-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ALIBCJH&style=for-the-badge&color=0B1020&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:0B1020,50:16213E,100:263B65" alt="Footer"/>
 
 </div>
