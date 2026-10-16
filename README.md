@@ -1,15 +1,10 @@
-
 <!-- ====================================================== -->
 <!--                   PROFILE HEADER                       -->
 <!-- ====================================================== -->
 
 <div align="center">
 
-# Simon Juma
-
-### Senior Backend Engineer · Cloud Engineer
-
-**Designing scalable systems. Engineering reliable infrastructure.**
+<img src="./assets/header.svg" width="100%" alt="Simon Juma, Senior Backend Engineer and Cloud Engineer. Designing scalable systems. Engineering reliable infrastructure."/>
 
 <br/>
 
